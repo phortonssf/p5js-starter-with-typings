@@ -7,6 +7,3 @@ ports:
  - port: 3001
    onOpen: ignore
 
-vscode:
-  extensions:
-    - devine-davies.make-hidden@3.0.3:z0q/3Eg7Ow3L9ocOAMHfVA==
